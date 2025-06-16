@@ -1,0 +1,57 @@
+{
+    "id": "1f681b9d-9877-4bfd-8c79-d6fbfdee9164",
+    "name": "MASQ HRandPayroll",
+    "publisher": "MASQ Publisher",
+    "version": "25.0.1.1",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "d6509362-8039-47d1-9023-a627a460f969",
+            "name": "MASQ Team",
+            "publisher": "MASQ Publisher",
+            "version": "25.0.1.2"
+        },
+        {
+            "id": "57623BFA-0559-4BC2-AE1C-0979C29FC8D1",
+            "name": "Business Central Cloud Migration API",
+            "publisher": "Microsoft",
+            "version": "26.0.30643.32695"
+        },
+        {
+            "id": "A2CC2EF8-949F-43D4-45B8-10BD6F8BC62C",
+            "name": "API Reports - Finance",
+            "publisher": "Microsoft",
+            "version": "26.0.30643.32695"
+        },
+        {
+            "id": "A190E87B-2F59-4E14-A727-421877802768",
+            "name": "API - Cross Environment Intercompany",
+            "publisher": "Microsoft",
+            "version": "26.0.30643.32695"
+        }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "26.0.30643.32100",
+    "idRanges": [
+        {
+            "from": 72100,
+            "to": 72249
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": false,
+        "includeSourceInSymbolFile": false
+    },
+    "runtime": "15.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}
